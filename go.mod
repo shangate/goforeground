@@ -1,4 +1,4 @@
-module github.com/audrenbdb/goforeground
+module github.com/shangate/goforeground
 
 go 1.16
 
